@@ -1,0 +1,6 @@
+{
+  "name": "SpeakFlow - Live English Speaking & AI Fluency Platform",
+  "description": "Real-time conversational English practice with interactive AI fluency roleplay coaches, live peer audio tables, and AI anime companion sessions.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
